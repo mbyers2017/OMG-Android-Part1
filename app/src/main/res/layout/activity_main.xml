@@ -33,9 +33,10 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:layout_marginLeft="20dp"
-            android:src="@mipmap/ic_launcher"/>
+            android:src="@mipmap/ic_books"/>
         <!-- Closing tag for the horizontal nested layout -->
     </LinearLayout>
+
 
     <EditText
         android:id="@+id/main_edittext"
